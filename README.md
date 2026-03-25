@@ -2,7 +2,18 @@
 
 Este repositório documenta a arquitetura de um projeto de **Workforce Management (WFM)** construído nativamente no Google Sheets. O objetivo da ferramenta é automatizar o cruzamento de logs de sistemas de telefonia (Twilio) e atendimento (Zendesk/CSAT) para gerar visões executivas de produtividade e SLA.
 
-*(Imagens do dashboard e da base de dados serão adicionadas em breve na pasta `/assets`)*
+*(Imagens do dashboard e da base de dados encontram-se documentadas na estrutura abaixo)*
+
+## 📸 Demonstração do Dashboard
+
+### Visão Gerencial (Resultado de Desempenho)
+![Resultado de Desempenho](./assets/wfm_resultado.jpg)
+
+### Base Automatizada (Tratamento de Logs)
+![Base Automatizada](./assets/wfm_base.jpg)
+
+### Dicionário de Legendas (Regras de Pausas)
+![Legenda e Regras](./assets/wfm_legenda.jpg)
 
 ## 🚀 O Problema de Negócio
 
